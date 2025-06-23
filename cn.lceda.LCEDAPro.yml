@@ -49,9 +49,9 @@ modules:
       - type: extra-data
         filename: lceda-pro.zip
         only-arches: [x86_64]
-        url: https://image.lceda.cn/files/lceda-pro-linux-x64-2.2.39.2.zip
-        sha256: a6dbb7ffc9c05fe6baa8419271e818ae6b74c4e334941959fed05036266bd4db
-        size: 333925665
+        url: https://image.lceda.cn/files/lceda-pro-linux-x64-2.2.40.3.zip
+        sha256: 00e4a4702783ccf34cf4396a61a1578b24c5c9af3e942637c91bb11c455e65e2
+        size: 334170826
         x-checker-data:
           type: html
           url: https://lceda.cn/page/download
