@@ -134,5 +134,10 @@
     <release version="2.1.17" date="2023-07-06"/>
     <release version="2.0.30" date="2023-05-25"/>
   </releases>
+  <keywords>
+    <keyword>pcb design tool</keyword>
+    <keyword>eda software</keyword>
+    <keyword>online editor</keyword>
+  </keywords>
 
 </component>
