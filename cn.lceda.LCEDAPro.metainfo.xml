@@ -13,11 +13,9 @@
   <project_license>LicenseRef-proprietary=https://lceda.cn/page/legal</project_license>
 
   <description>
+    <p>**NOTE: This wrapper is not verified by, affiliated with, or supported by LCEDA.**</p>
     <p>
       LCEDA (Chinese: 嘉立创EDA), Chinese editon of EasyEDA, is a web-based, ready-to-use, easy-to-use, team-collaborative EDA tool.
-    </p>
-    <p>
-      NOTE: This wrapper is not verified by, affiliated with, or supported by LCEDA.
     </p>
   </description>
 
